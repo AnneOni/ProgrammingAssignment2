@@ -1,7 +1,7 @@
 
 ##This function takes a matrix and caches its inverse.
-## It also creates four functions
-## set, get, setInverse & getInverse
+## it also creates four functions
+## set, get, setInverse, getInverse
 
 makeCacheMatrix <- function(x = matrix()) {
   m <- NULL #cache
